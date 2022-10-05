@@ -10,6 +10,6 @@ let package = Package(
     targets: [
         .binaryTarget(name: "SwiftAV", 
                       url: "https://components.geekyinteractive.com/SwiftAV.xcframework.zip", 
-                      checksum: "98ecd00b4a66fcb00d8c0c46620d621fadc5a710d28cc7097ac152732bab4bc8")
+                      checksum: "08fcf7b61be26811b996bdd83dfa512c0b53184accf7ba3bfd0424fd4ca984c8")
     ]
 )
